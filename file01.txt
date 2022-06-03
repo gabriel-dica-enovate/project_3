@@ -10,6 +10,10 @@ Line8
 Line9
 Line10
 Line11
+<<<<<<< Updated upstream
 Line12
 Line13
 Line14
+=======
+Line12
+>>>>>>> Stashed changes
